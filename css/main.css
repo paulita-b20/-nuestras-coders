@@ -1,0 +1,38 @@
+h1 {
+font-size: 30px;
+}
+.letras{
+    width: 740px;
+    height: 530px;
+    margin: auto;
+    position:relative;
+    
+}
+
+.img{
+    width: 210;
+    height: 210;
+    margin: 10;
+    position:relative;
+    display: inline-block;
+
+}
+
+.img:hover{
+    
+    background-color: antiquewhite;
+    
+}
+
+.nombres{
+    position: relative;
+    left: 85px;
+    bottom: 30px;
+    color: white;
+    
+}
+
+.contenedor > div
+{
+    display: inline-block;
+}
